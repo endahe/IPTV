@@ -4879,9 +4879,9 @@ http://stream.mcquack.net/306/index.m3u8
 http://stream.mcquack.net/323/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/8152.png" tvg-rec="0",Stingray Classica HD DE
 http://stream.mcquack.net/312/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-id="2560" tvg-logo="http://epg.one/img/2560.png" tvg-rec="3",1TV GE
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img2/3335.png" tvg-rec="3",M1 HD UA
 http://stream.mcquack.net/218/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/3287.png" tvg-rec="3",2TV LT
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img2/3336.png" tvg-rec="3",M2 HD UA
 http://stream.mcquack.net/330/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2022.png" tvg-rec="7",Bridge Deluxe HD
 http://stream.mcquack.net/92/index.m3u8
